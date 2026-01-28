@@ -1,3 +1,158 @@
+# Course 01: Prompt Engineering & LangChain Fundamentals
+
+This repository contains hands-on labs and exercises from **Course 02** of my **Retrieval-Augmented Generation (RAG) Specialization** journey.
+
+The focus of this course is on:
+- Prompt engineering techniques
+- Understanding Large Language Models (LLMs)
+- Building applications using **LangChain**
+- Working with IBM watsonx foundation models
+
+---
+
+## 📌 Objectives
+
+By completing this course, I learned how to:
+
+- Design effective prompts for LLMs
+- Apply zero-shot, one-shot, and few-shot prompting
+- Use Chain-of-Thought (CoT) prompting
+- Understand self-consistency in reasoning
+- Build real-world applications using LangChain
+- Work with prompt templates, output parsers, memory, chains, and agents
+
+---
+
+## 🛠️ Setup
+
+### Install Required Libraries
+
+```bash
+pip install langchain langchain-ibm flask pydantic
+
+Import Required Libraries
+
+The labs use:
+
+langchain
+
+langchain-ibm
+
+ibm_watsonx_ai
+
+pydantic
+
+flask
+
+IBM watsonx credentials are handled automatically in the Skills Network environment.
+
+📂 Labs Overview
+🔹 Lab 01: Prompt Engineering
+
+📁 Lab-01-Prompt-Engineering/
+
+Topics covered:
+
+Basic prompts
+
+Zero-shot prompting
+
+One-shot prompting
+
+Few-shot prompting
+
+Chain-of-Thought (CoT) prompting
+
+Self-consistency
+
+Real-world applications of prompting
+
+Exercises include:
+
+Comparing LLM responses
+
+Improving reasoning quality using prompt design
+
+Understanding how prompt structure impacts output
+
+🔹 Lab 02: LangChain Fundamentals
+
+📁 Lab-02-LangChain-Fundamentals/
+
+Topics covered:
+
+Introduction to LangChain
+
+Models and chat models
+
+Prompt templates
+
+Output parsers (JSON with Pydantic)
+
+Document loaders and text splitters
+
+Retrieval-based systems
+
+Memory-enabled chatbots
+
+Chains and multi-step workflows
+
+Tools and agents
+
+Exercises include:
+
+Comparing multiple foundation models (LLaMA, Granite, Mistral)
+
+Building structured JSON outputs
+
+Creating a retrieval system
+
+Implementing chat memory
+
+Creating a LangChain agent with tools
+
+🚀 Technologies Used
+
+Python 3.12
+
+LangChain
+
+IBM watsonx.ai
+
+Foundation Models
+
+LLaMA
+
+Granite
+
+Mistral
+
+Flask
+
+Pydantic
+
+📈 Learning Outcomes
+
+This course strengthened my understanding of:
+
+How LLMs respond to different prompt strategies
+
+Building modular and scalable GenAI pipelines
+
+Using LangChain abstractions effectively
+
+Designing structured and reliable AI outputs
+
+These concepts form the foundation for RAG-based applications and advanced GenAI systems.
+
+✍️ Author
+
+Muhammad Saqib
+Machine Learning & Generative AI Enthusiast
+RAG Specialization Learner
+
+
+
 # IBM_RAG_Specialization
 Labs, notes, and code from Coursera's Generative AI Applications (Courses).
 # RAG Fundamentals – IBM RAG Specialization
