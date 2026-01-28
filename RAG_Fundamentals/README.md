@@ -1,1 +1,1 @@
-This folder contain labs and project for Rag Fundamentals
+This folder contain labs and project for Rag Fundamentals 
