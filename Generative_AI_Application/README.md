@@ -1,1 +1,1 @@
-This Folder will contain Generative AI Applicatios
+This Folder will contain Generative AI Applications
